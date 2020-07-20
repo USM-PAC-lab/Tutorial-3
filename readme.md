@@ -1,8 +1,8 @@
-### Tutorial 3
+# Tutorial 3
 
 Welcome to what is likely the last tutorial, unless you all feel you need more help.
 
-# **For this tutorial, please create your own repository on your own GitHub! You will not be using this one until the very end**
+## **For this tutorial, please create your own repository on your own GitHub! You will not be using this one until the very end!**
 
 You will be doing the [roll-a-ball-tutorial](https://learn.unity.com/project/roll-a-ball-tutorial) by unity. This is a great beginner level course for unity, and it's how I learned how to use it.
 
