@@ -4,7 +4,7 @@ Welcome to what is likely the last tutorial, unless you all feel you need more h
 
 ## **For this tutorial, please create your own repository on your own GitHub! You will not be using this one until the very end!**
 
-You will be doing the [roll-a-ball-tutorial](https://learn.unity.com/project/roll-a-ball-tutorial) by unity. This is a great beginner level course for unity, and it's how I learned how to use it.
+You will be doing the [roll-a-ball-tutorial](https://learn.unity.com/project/roll-a-ball-tutorial) by unity. This is a great beginner level course for Unity, and it's how I learned Unity.
 
 You will be committing your changes at least after every video, but please do more as you see fit. For this project, you will likely only need your master branch, so don't worry about branching today. 
 
